@@ -1,3 +1,6 @@
 {
-  "item.tutomod.tuto_item": "Tuto Item"
+  "item.tutomod.tuto_item": "Tuto Item",
+  "item.tutomod.tuto_sword": "Tuto Sword",
+
+  "itemGroup.tuto_tab": "Tuto Tabs"
 }
